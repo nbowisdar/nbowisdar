@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**nbowisdar/nbowisdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╔══════════════════ 👋 Welcome ══════════════════╗ 
+🤓 Volodymyr Fedorets                                      
+║                                                ║ 
+┣━━ 🇺🇦 Ukrainian Software Developer               
+┃   ┣━━ 💻 Full Stack Engineer
+┃   ┣━━ 🌐 JavaScript | TypeScript | Python | Golang
+┃   ┣━━ ⚛️ React | Node.js | Vue.js                         
+┃   ┣━━ ☁️ Docker | CI/CD Pipelines | Nginx         
+┃   ┣━━ 📦 PostgresSQL  MySQL MongoDB | Redis                    
+║                                                ║ 
+🌟 Touch with me in the telegram: @nbowisdar                 
+║                                                ║ 
+┗━━ 🧹 Clean Coder | 🕵️ Nice Person                   
+╚════════════════════════════════════════════════╝       
