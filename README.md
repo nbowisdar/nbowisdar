@@ -9,7 +9,7 @@
 - ☁️ **Tools:** Docker | CI/CD Pipelines | Nginx         
 - 📦 **Databases:** PostgreSQL | MySQL | MongoDB | Redis                    
 
-**Portfolio site:** [@link]([https://t.me/nbowisdar](https://nbowisdar.github.io/vue-portfolio/))  
+📃 **Portfolio site:** [link](https://nbowisdar.github.io/vue-portfolio/)  
 🌟 **Connect with me on Telegram:** [@nbowisdar](https://t.me/nbowisdar)  
 
 🧹 **Values:** Clean Coder | 🕵️ Nice Person
